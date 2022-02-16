@@ -25,7 +25,7 @@ status-website:
   introTitle: "Bienvenidos a **DxF Status**"
   introMessage: Esta página de estado entrega información en tiempo real sobre las **Experiencias**, **Aplicaciones**, **API** y otros servicios de la **Digital eXperience Falabella**
   navbar:
-    - title: Status DxF
+    - title: Status
       href: /upptime
     - title: Abrir un caso 
       href: https://jira.falabella.com/servicedesk/customer/portal/25
