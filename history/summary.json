@@ -22,19 +22,19 @@
     "url": "https://www.noviosfalabella.com.pe/novios-pe/public/inicio.do",
     "icon": "https://favicons.githubusercontent.com/www.noviosfalabella.com.pe",
     "slug": "novios-pe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2138,
-    "timeDay": 2227,
-    "timeWeek": 2138,
-    "timeMonth": 2138,
-    "timeYear": 2138,
+    "status": "up",
+    "uptime": "90.26%",
+    "uptimeDay": "40.56%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "90.26%",
+    "time": 2123,
+    "timeDay": 2102,
+    "timeWeek": 2123,
+    "timeMonth": 2123,
+    "timeYear": 2123,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 856
     }
   },
   {
