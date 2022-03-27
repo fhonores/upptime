@@ -22,9 +22,9 @@
     "url": "https://www.noviosfalabella.com.pe/novios-pe/public/inicio.do",
     "icon": "https://favicons.githubusercontent.com/www.noviosfalabella.com.pe",
     "slug": "novios-pe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
@@ -34,6 +34,7 @@
     "timeMonth": 1810,
     "timeYear": 1929,
     "dailyMinutesDown": {
+      "2022-03-27": 0,
       "2022-02-22": 856
     }
   },
