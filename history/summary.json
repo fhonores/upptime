@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/www.noviosfalabella.com.pe",
     "slug": "novios-pe",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.67%",
     "time": 1863,
     "timeDay": 1479,
     "timeWeek": 1617,
@@ -45,7 +45,7 @@
     "url": "https://www.noviosfalabella.com.co/novios-co/public/inicio.do",
     "icon": "https://favicons.githubusercontent.com/www.noviosfalabella.com.co",
     "slug": "novios-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 1489,
     "timeMonth": 1605,
     "timeYear": 1632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "Escanea & Paga CL",
