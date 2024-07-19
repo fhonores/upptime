@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
     "status": "down",
-    "uptime": "40.19%",
+    "uptime": "40.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 89,
-    "timeWeek": 116,
-    "timeMonth": 105,
+    "timeDay": 61,
+    "timeWeek": 105,
+    "timeMonth": 104,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-07-18": 49,
+      "2024-07-19": 50,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -379,8 +380,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "39.32%",
+    "uptime": "39.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 154,
-    "timeDay": 122,
-    "timeWeek": 157,
+    "timeDay": 140,
+    "timeWeek": 156,
     "timeMonth": 152,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-07-18": 49,
+      "2024-07-19": 50,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -763,8 +764,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
     "status": "up",
-    "uptime": "75.57%",
+    "uptime": "75.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.76%",
-    "time": 919,
-    "timeDay": 1255,
-    "timeWeek": 1418,
-    "timeMonth": 1443,
-    "timeYear": 1204,
+    "uptimeYear": "85.04%",
+    "time": 921,
+    "timeDay": 1247,
+    "timeWeek": 1413,
+    "timeMonth": 1431,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2023-09-11": 926,
       "2023-09-10": 1440,
@@ -836,8 +836,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -852,9 +851,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 126,
-    "timeWeek": 157,
-    "timeMonth": 161,
+    "timeDay": 95,
+    "timeWeek": 158,
+    "timeMonth": 158,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2023-08-17": 23
