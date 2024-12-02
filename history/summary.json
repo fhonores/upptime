@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
     "status": "down",
-    "uptime": "34.82%",
+    "uptime": "34.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 93,
-    "timeDay": 67,
-    "timeWeek": 104,
+    "timeDay": 62,
+    "timeWeek": 103,
     "timeMonth": 108,
-    "timeYear": 96,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-12-01": 72,
+      "2024-12-02": 64,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -379,8 +380,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "34.07%",
+    "uptime": "34.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 148,
-    "timeDay": 145,
-    "timeWeek": 168,
-    "timeMonth": 304,
+    "timeDay": 199,
+    "timeWeek": 177,
+    "timeMonth": 306,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-12-01": 72,
+      "2024-12-02": 64,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -763,8 +764,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
     "status": "up",
-    "uptime": "78.83%",
+    "uptime": "78.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1616,
-    "timeWeek": 1663,
-    "timeMonth": 1496,
-    "timeYear": 1423,
+    "time": 1309,
+    "timeDay": 1765,
+    "timeWeek": 1706,
+    "timeMonth": 1507,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   },
   {
@@ -797,10 +797,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 117,
-    "timeWeek": 189,
-    "timeMonth": 170,
-    "timeYear": 151,
+    "timeDay": 193,
+    "timeWeek": 192,
+    "timeMonth": 171,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2024-10-04": 20
     }
