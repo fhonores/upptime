@@ -16,7 +16,7 @@
     "timeMonth": 111,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-03-15": 59,
+      "2025-03-15": 188,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 194,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-03-15": 60,
+      "2025-03-15": 188,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -772,9 +772,9 @@
     "url": "https://www.noviosfalabella.com.co/novios-co/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
-    "status": "up",
+    "status": "down",
     "uptime": "80.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
@@ -784,6 +784,7 @@
     "timeMonth": 1404,
     "timeYear": 1438,
     "dailyMinutesDown": {
+      "2025-03-15": 0,
       "2025-02-27": 74
     }
   },
