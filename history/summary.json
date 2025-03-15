@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
     "status": "down",
-    "uptime": "31.62%",
+    "uptime": "31.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 98,
-    "timeDay": 104,
+    "timeDay": 96,
     "timeWeek": 131,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-03-14": 60,
+      "2025-03-15": 59,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -379,8 +380,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "30.94%",
+    "uptime": "30.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 156,
-    "timeDay": 129,
+    "timeDay": 136,
     "timeWeek": 188,
-    "timeMonth": 195,
+    "timeMonth": 194,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-03-14": 60,
+      "2025-03-15": 60,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -763,8 +764,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
     "status": "up",
-    "uptime": "80.77%",
+    "uptime": "80.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 1429,
-    "timeDay": 1128,
-    "timeWeek": 1329,
-    "timeMonth": 1408,
-    "timeYear": 1437,
+    "time": 1428,
+    "timeDay": 1305,
+    "timeWeek": 1359,
+    "timeMonth": 1404,
+    "timeYear": 1438,
     "dailyMinutesDown": {
       "2025-02-27": 74
     }
@@ -799,9 +799,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 73,
-    "timeWeek": 196,
-    "timeMonth": 178,
+    "timeDay": 145,
+    "timeWeek": 194,
+    "timeMonth": 180,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-01-13": 21,
