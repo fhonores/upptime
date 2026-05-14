@@ -4,18 +4,19 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "up",
-    "uptime": "23.03%",
-    "uptimeDay": "10.86%",
-    "uptimeWeek": "22.25%",
-    "uptimeMonth": "7.36%",
-    "uptimeYear": "0.50%",
+    "status": "down",
+    "uptime": "23.04%",
+    "uptimeDay": "19.11%",
+    "uptimeWeek": "23.43%",
+    "uptimeMonth": "7.63%",
+    "uptimeYear": "0.52%",
     "time": 145,
-    "timeDay": 421,
-    "timeWeek": 454,
-    "timeMonth": 344,
+    "timeDay": 413,
+    "timeWeek": 444,
+    "timeMonth": 339,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2026-05-14": 0,
       "2026-05-13": 1272,
       "2026-05-12": 834,
       "2026-05-11": 1185,
@@ -379,8 +380,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440
+      "2025-05-15": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.67%",
     "uptimeYear": "0.02%",
     "time": 196,
-    "timeDay": 39,
+    "timeDay": 24,
     "timeWeek": 176,
     "timeMonth": 238,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-05-13": 1429,
+      "2026-05-14": 108,
+      "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
@@ -763,8 +764,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440
+      "2025-05-15": 1440
     }
   },
   {
@@ -779,7 +779,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1424,
-    "timeDay": 1234,
+    "timeDay": 1113,
     "timeWeek": 1238,
     "timeMonth": 1400,
     "timeYear": 1425,
@@ -805,12 +805,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 181,
-    "timeDay": 82,
+    "timeDay": 45,
     "timeWeek": 80,
     "timeMonth": 170,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-05-13": 1429,
+      "2026-05-14": 108,
+      "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
@@ -1173,8 +1174,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440
+      "2025-05-15": 1440
     }
   }
 ]
