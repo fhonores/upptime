@@ -4,17 +4,17 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "down",
+    "status": "up",
     "uptime": "23.02%",
-    "uptimeDay": "29.37%",
-    "uptimeWeek": "19.58%",
+    "uptimeDay": "29.41%",
+    "uptimeWeek": "17.94%",
     "uptimeMonth": "17.92%",
     "uptimeYear": "1.38%",
-    "time": 181,
-    "timeDay": 440,
-    "timeWeek": 383,
-    "timeMonth": 409,
-    "timeYear": 202,
+    "time": 183,
+    "timeDay": 489,
+    "timeWeek": 395,
+    "timeMonth": 412,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2026-05-06": 1064,
       "2026-05-05": 1440,
@@ -380,7 +380,7 @@
       "2026-05-25": 1095,
       "2026-05-26": 1238,
       "2026-05-27": 1044,
-      "2026-05-28": 720
+      "2026-05-28": 886
     }
   },
   {
@@ -389,13 +389,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "22.29%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "5.46%",
+    "uptime": "22.28%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "3.82%",
     "uptimeMonth": "5.23%",
     "uptimeYear": "0.32%",
     "time": 210,
-    "timeDay": 22,
+    "timeDay": 17,
     "timeWeek": 265,
     "timeMonth": 351,
     "timeYear": 221,
@@ -764,7 +764,7 @@
       "2026-05-22": 1440,
       "2026-05-27": 1249,
       "2026-05-26": 1440,
-      "2026-05-28": 982
+      "2026-05-28": 1148
     }
   },
   {
@@ -799,7 +799,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "73.93%",
+    "uptime": "73.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -810,7 +810,7 @@
     "timeMonth": 120,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-05-28": 982,
+      "2026-05-28": 1148,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
