@@ -4,17 +4,17 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "down",
-    "uptime": "22.83%",
-    "uptimeDay": "8.31%",
-    "uptimeWeek": "9.13%",
-    "uptimeMonth": "11.21%",
+    "status": "up",
+    "uptime": "22.82%",
+    "uptimeDay": "5.85%",
+    "uptimeWeek": "9.14%",
+    "uptimeMonth": "10.95%",
     "uptimeYear": "2.21%",
-    "time": 197,
-    "timeDay": 314,
-    "timeWeek": 213,
+    "time": 199,
+    "timeDay": 441,
+    "timeWeek": 279,
     "timeMonth": 304,
-    "timeYear": 215,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2026-05-06": 1064,
       "2026-05-05": 1440,
@@ -380,7 +380,7 @@
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-23": 1320,
-      "2026-06-24": 159
+      "2026-06-24": 1085
     }
   },
   {
@@ -389,13 +389,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "21.99%",
-    "uptimeDay": "8.32%",
+    "uptime": "21.98%",
+    "uptimeDay": "5.82%",
     "uptimeWeek": "1.19%",
     "uptimeMonth": "2.93%",
     "uptimeYear": "0.65%",
     "time": 218,
-    "timeDay": 612,
+    "timeDay": 33,
     "timeWeek": 217,
     "timeMonth": 356,
     "timeYear": 232,
@@ -764,7 +764,7 @@
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
-      "2026-06-24": 159
+      "2026-06-24": 1085
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
     "status": "up",
-    "uptime": "86.40%",
+    "uptime": "86.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -798,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "72.70%",
+    "uptime": "72.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -809,7 +809,7 @@
     "timeMonth": 91,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2026-06-24": 159,
+      "2026-06-24": 1086,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
