@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
     "status": "down",
-    "uptime": "96.25%",
+    "uptime": "96.24%",
     "uptimeDay": "16.02%",
     "uptimeWeek": "17.75%",
     "uptimeMonth": "12.43%",
-    "uptimeYear": "83.45%",
+    "uptimeYear": "83.41%",
     "time": 220,
-    "timeDay": 429,
-    "timeWeek": 421,
-    "timeMonth": 362,
+    "timeDay": 431,
+    "timeWeek": 422,
+    "timeMonth": 363,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-05-07": 1055,
@@ -87,7 +87,8 @@
       "2026-07-13": 980,
       "2026-07-14": 1220,
       "2026-07-15": 1308,
-      "2026-07-16": 1092
+      "2026-07-16": 1209,
+      "2026-07-17": 123
     }
   },
   {
@@ -96,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
     "status": "down",
-    "uptime": "21.74%",
+    "uptime": "21.73%",
     "uptimeDay": "4.80%",
     "uptimeWeek": "1.57%",
     "uptimeMonth": "4.63%",
     "uptimeYear": "0.90%",
     "time": 233,
-    "timeDay": 552,
-    "timeWeek": 323,
+    "timeDay": 556,
+    "timeWeek": 326,
     "timeMonth": 363,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2026-05-06": 1336,
       "2026-05-05": 1440,
@@ -400,7 +401,6 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2025-07-17": 1440,
       "2026-05-07": 1423,
       "2026-05-16": 1345,
       "2026-05-15": 1440,
@@ -470,8 +470,9 @@
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1102,
-      "2026-07-16": 1253,
-      "2026-07-15": 1440
+      "2026-07-16": 1370,
+      "2026-07-15": 1440,
+      "2026-07-17": 123
     }
   },
   {
@@ -480,15 +481,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
     "status": "up",
-    "uptime": "86.59%",
+    "uptime": "86.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1422,
-    "timeDay": 1433,
-    "timeWeek": 1381,
-    "timeMonth": 1470,
+    "timeDay": 1571,
+    "timeWeek": 1426,
+    "timeMonth": 1475,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2025-09-03": 16,
@@ -505,18 +506,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "71.67%",
+    "uptime": "71.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 173,
-    "timeDay": 96,
-    "timeWeek": 68,
-    "timeMonth": 86,
+    "time": 172,
+    "timeDay": 141,
+    "timeWeek": 83,
+    "timeMonth": 87,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2026-07-16": 1323,
+      "2026-07-17": 123,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -879,8 +881,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]
