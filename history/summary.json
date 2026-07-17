@@ -4,16 +4,16 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "27.82%",
-    "uptimeWeek": "19.74%",
-    "uptimeMonth": "12.88%",
-    "uptimeYear": "83.39%",
-    "time": 221,
-    "timeDay": 382,
-    "timeWeek": 426,
-    "timeMonth": 365,
+    "status": "up",
+    "uptime": "96.23%",
+    "uptimeDay": "23.18%",
+    "uptimeWeek": "19.75%",
+    "uptimeMonth": "12.89%",
+    "uptimeYear": "83.33%",
+    "time": 222,
+    "timeDay": 452,
+    "timeWeek": 429,
+    "timeMonth": 367,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2026-05-07": 766,
@@ -87,7 +87,7 @@
       "2026-07-14": 1220,
       "2026-07-15": 1308,
       "2026-07-16": 1209,
-      "2026-07-17": 506
+      "2026-07-17": 838
     }
   },
   {
@@ -95,17 +95,17 @@
     "url": "https://www.noviosfalabella.com.pe/novios-pe/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
-    "status": "down",
+    "status": "up",
     "uptime": "21.73%",
-    "uptimeDay": "4.80%",
+    "uptimeDay": "4.83%",
     "uptimeWeek": "1.57%",
     "uptimeMonth": "4.63%",
     "uptimeYear": "0.90%",
-    "time": 233,
-    "timeDay": 556,
-    "timeWeek": 326,
-    "timeMonth": 363,
-    "timeYear": 249,
+    "time": 235,
+    "timeDay": 853,
+    "timeWeek": 444,
+    "timeMonth": 393,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2026-05-06": 1336,
       "2026-05-05": 1440,
@@ -471,7 +471,7 @@
       "2026-07-06": 1102,
       "2026-07-16": 1370,
       "2026-07-15": 1440,
-      "2026-07-17": 706
+      "2026-07-17": 1038
     }
   },
   {
@@ -505,7 +505,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "71.65%",
+    "uptime": "71.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -516,7 +516,7 @@
     "timeMonth": 87,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2026-07-17": 706,
+      "2026-07-17": 1039,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
