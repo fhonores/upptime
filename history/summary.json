@@ -4,19 +4,19 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "11.24%",
-    "uptimeWeek": "3.99%",
-    "uptimeMonth": "8.40%",
-    "uptimeYear": "79.90%",
-    "time": 243,
-    "timeDay": 504,
-    "timeWeek": 345,
-    "timeMonth": 412,
+    "status": "down",
+    "uptime": "95.53%",
+    "uptimeDay": "17.66%",
+    "uptimeWeek": "4.91%",
+    "uptimeMonth": "8.54%",
+    "uptimeYear": "79.92%",
+    "time": 242,
+    "timeDay": 437,
+    "timeWeek": 330,
+    "timeMonth": 406,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-05-22": 324,
+      "2026-05-22": 219,
       "2026-05-23": 1269,
       "2026-05-24": 1280,
       "2026-05-25": 1095,
@@ -483,7 +483,7 @@
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-13": 750
+      "2026-08-13": 843
     }
   },
   {
@@ -529,7 +529,7 @@
     "timeMonth": 116,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-08-13": 750,
+      "2026-08-13": 843,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
