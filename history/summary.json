@@ -4,15 +4,15 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "17.66%",
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "13.80%",
     "uptimeWeek": "4.91%",
-    "uptimeMonth": "8.54%",
-    "uptimeYear": "79.92%",
-    "time": 242,
-    "timeDay": 437,
-    "timeWeek": 330,
+    "uptimeMonth": "8.03%",
+    "uptimeYear": "79.84%",
+    "time": 243,
+    "timeDay": 471,
+    "timeWeek": 344,
     "timeMonth": 406,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
       "2026-08-06": 1440,
       "2026-08-11": 1312,
       "2026-08-12": 1331,
-      "2026-08-13": 644
+      "2026-08-13": 1058
     }
   },
   {
@@ -107,17 +107,17 @@
     "url": "https://www.noviosfalabella.com.pe/novios-pe/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.pe.ico",
     "slug": "novios-pe",
-    "status": "down",
-    "uptime": "21.39%",
-    "uptimeDay": "4.38%",
+    "status": "up",
+    "uptime": "21.38%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "0.63%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.98%",
-    "time": 239,
-    "timeDay": 708,
-    "timeWeek": 294,
-    "timeMonth": 309,
-    "timeYear": 257,
+    "time": 241,
+    "timeDay": 810,
+    "timeWeek": 419,
+    "timeMonth": 336,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2026-05-06": 1336,
       "2026-05-05": 1440,
@@ -483,7 +483,7 @@
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-13": 843
+      "2026-08-13": 1257
     }
   },
   {
@@ -518,7 +518,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "70.46%",
+    "uptime": "70.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -529,7 +529,7 @@
     "timeMonth": 116,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-08-13": 843,
+      "2026-08-13": 1257,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
