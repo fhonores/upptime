@@ -4,17 +4,17 @@
     "url": "https://www.noviosfalabella.com/novios-cl/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.ico",
     "slug": "novios-cl",
-    "status": "down",
-    "uptime": "95.44%",
-    "uptimeDay": "1.39%",
+    "status": "up",
+    "uptime": "95.43%",
+    "uptimeDay": "1.43%",
     "uptimeWeek": "5.68%",
     "uptimeMonth": "7.41%",
-    "uptimeYear": "79.49%",
-    "time": 244,
-    "timeDay": 479,
-    "timeWeek": 360,
-    "timeMonth": 402,
-    "timeYear": 278,
+    "uptimeYear": "79.44%",
+    "time": 245,
+    "timeDay": 567,
+    "timeWeek": 378,
+    "timeMonth": 406,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2026-05-24": 1280,
       "2026-05-23": 323,
@@ -101,7 +101,7 @@
       "2026-08-13": 1184,
       "2026-08-15": 1420,
       "2026-08-14": 1440,
-      "2026-08-16": 54
+      "2026-08-16": 273
     }
   },
   {
@@ -483,7 +483,7 @@
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-13": 1382,
-      "2026-08-16": 54,
+      "2026-08-16": 274,
       "2026-08-15": 1440,
       "2026-08-14": 1440
     }
@@ -520,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "escanea-and-paga-cl",
     "status": "down",
-    "uptime": "70.36%",
+    "uptime": "70.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -531,7 +531,7 @@
     "timeMonth": 113,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-08-16": 54,
+      "2026-08-16": 274,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
