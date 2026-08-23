@@ -9,7 +9,7 @@
     "uptimeDay": "1.66%",
     "uptimeWeek": "3.24%",
     "uptimeMonth": "2.26%",
-    "uptimeYear": "78.66%",
+    "uptimeYear": "78.65%",
     "time": 252,
     "timeDay": 402,
     "timeWeek": 338,
@@ -103,7 +103,7 @@
       "2026-08-20": 1403,
       "2026-08-22": 1416,
       "2026-08-21": 1440,
-      "2026-08-23": 559
+      "2026-08-23": 588
     }
   },
   {
@@ -478,7 +478,7 @@
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-13": 1382,
-      "2026-08-23": 559,
+      "2026-08-23": 588,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -495,16 +495,16 @@
     "url": "https://www.noviosfalabella.com.co/novios-co/public/inicio.do",
     "icon": "https://icons.duckduckgo.com/ip3/www.noviosfalabella.com.co.ico",
     "slug": "novios-co",
-    "status": "down",
+    "status": "up",
     "uptime": "86.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
     "time": 1428,
-    "timeDay": 1240,
-    "timeWeek": 1333,
-    "timeMonth": 1516,
+    "timeDay": 1343,
+    "timeWeek": 1347,
+    "timeMonth": 1514,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-09-03": 16,
@@ -514,7 +514,7 @@
       "2026-01-22": 30,
       "2026-01-29": 41,
       "2026-08-08": 28,
-      "2026-08-23": 0
+      "2026-08-23": 29
     }
   },
   {
@@ -534,7 +534,7 @@
     "timeMonth": 106,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-08-23": 559,
+      "2026-08-23": 588,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
